@@ -1,0 +1,16 @@
+html{
+ background-color: rgb(61, 119, 131);
+}
+
+body {
+  height: 98vh;
+  display: flex;
+}
+
+@media only screen and (max-width: 500px) {
+  canvas {
+    width: 100vw;
+    height: 100vh;
+  }
+}
+
