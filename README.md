@@ -1,5 +1,5 @@
 # bug-invaders
-I build this whole game, with codeacademys guidance, using Phaser.  Fun little project and I learned a lot. 
+I build this whole game, with codeacademys guidance, using Phaser.  Fun little project and I learned a lot. *Not playable on mobile.*
 
 ## Features
 I added a few things to make this project better
